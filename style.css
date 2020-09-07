@@ -1,0 +1,17 @@
+body{
+    width: 1160px;
+    margin: auto;
+}
+h1{
+    color:blue;
+
+}
+h2{
+    color:purple;
+}
+footer{
+    color: red;
+}
+p{
+    color:blue;
+}
